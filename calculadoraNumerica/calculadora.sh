@@ -1,9 +1,5 @@
 #!/bin/bash
-#______________________________________________________________
-#Calculadora em Script
-#Nome: Eliton Pereira Melo
-#Disciplina: Automação Via Script
-#Professor:Gabriel Tavares
+
 #______________________________________________________________
 lmc() {
 echo " que operação deseja fazer agora?"
