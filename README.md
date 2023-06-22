@@ -12,6 +12,8 @@ Bem-vindo ao repositório de mini projetos em Shell Script! Aqui você encontrar
 
 4. **Conversor de Unidades**: Um conversor de unidades que suporta a conversão entre diferentes sistemas de medida, como quilômetros para milhas, graus Celsius para Fahrenheit, entre outros. O usuário pode escolher a conversão desejada e fornecer o valor a ser convertido.
 
+5.  **Calculadora Numérica**: Este projeto consiste em uma calculadora que permite realizar operações matemáticas simples, como soma, subtração, multiplicação, divisão e cálculo da raiz quadrada.
+
 ## Como utilizar os projetos
 
 Cada projeto está localizado em uma pasta separada dentro deste repositório. Para executar um projeto específico, siga as instruções fornecidas no respectivo diretório. Geralmente, você precisará abrir um terminal, navegar até o diretório do projeto e executar o script Shell correspondente.
